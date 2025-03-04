@@ -1,16 +1,20 @@
-# flutter bloc templete
+## Project Guidline
 
-A flutter bloc templete.
+=> project version
+1. Flutter sdk version stable 3.27.1
+2. Dart version 3.6.0
+3. Xcode version 16.2
+4. CocoaPods version 1.15.2
+5. java jdk version 21.0.3+-79915915-b509.11
 
-## Getting Started
+=> run project
+1. donload or clone github repo.
+2. flutter clean && flutter pub get.
+3. select device.
+4. flutter run.
 
-This project is a starting point for a Flutter application.
+=> Project architecture
+1. MVVM architecture design pattern.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=> State management.
+1. Bloc state management.
